@@ -1,0 +1,12 @@
+file_format: "1"
+id: scylla
+name: Scylla
+type: shield
+url: 
+requires: [pro_micro]
+exposes: 
+features:
+  - keys
+siblings:
+  - scylla_left
+  - scylla_right
