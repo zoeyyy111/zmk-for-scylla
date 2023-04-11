@@ -81,7 +81,7 @@
             bindings = <
 &kp TILDE      &kp EXCL        &kp AT      &kp HASH      &kp DLLR      &kp PRCNT       &kp CARET      &kp AMPS        &kp ASTRK      &kp LPAR       &kp RPAR    &kp DEL
     &none  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4   &kp NUMBER_5    &kp NUMBER_6  &kp NUMBER_7     &kp NUMBER_8  &kp NUMBER_9   &kp NUMBER_0   &kp PLUS
-    &none     &kp LC(A)     &kp LC(S)     &kp LC(D)     &kp LC(F)        &kp F12       &kp MINUS     &kp EQUAL        &kp GRAVE     &kp RC(L)          &none   &kp PIPE
+    &none     &kp LC(A)     &kp LC(S)     &kp LC(D)     &kp LC(F)        &kp F12       &kp MINUS     &kp EQUAL        &kp GRAVE     &kp RC(L)           &kp SQT   &kp PIPE
     &none     &kp LC(Z)     &kp LC(X)     &kp LC(C)     &kp LC(V)  &kp LC(LA(A))           &none         &none            &none         &none  &kp RC(SLASH)  &kp UNDER
                                              &trans         &none         &trans           &mo 3         &none  &kp RIGHT_SHIFT
                                                             &none         &trans           &none         &none
