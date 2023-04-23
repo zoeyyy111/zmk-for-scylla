@@ -12,9 +12,9 @@
 #     shield: settings_reset
 ---
 include:
-  - board: nice_nano_v2
+  - board: nrfmicro_13
     shield: scylla_left
-  - board: nice_nano_v2
+  - board: nrfmicro_13
     shield: scylla_right
-  - board: nice_nano_v2
+  - board: nrfmicro_13
     shield: settings_reset
