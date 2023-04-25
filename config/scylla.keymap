@@ -82,12 +82,12 @@
 
         default_layer {
             bindings = <
-   &kp ESC  &kp N1  &kp N2       &kp N3       &kp N4      &kp N5    &kp N6         &kp N7            &kp N8   &kp N9    &kp N0   &kp BSPC
-   &kp TAB   &kp Q   &kp W        &kp E        &kp R       &kp T     &kp Y          &kp U             &kp I    &kp O     &kp P  &kp MINUS
-&kp LSHIFT   &kp A   &kp S        &kp D        &kp F       &kp G     &kp H          &kp J             &kp K    &kp L  &kp SEMI    &kp SQT
- &kp LCTRL   &kp Z   &kp X        &kp C        &kp V       &kp B     &kp N          &kp M         &kp COMMA  &kp DOT  &kp FSLH   &kp BSLH
-                            &lt 1 SPACE  &lt 2 ENTER  &kp LSHIFT     &mo 3  &kp RIGHT_GUI  &ltq 2 BACKSPACE
-                                               &none       &none     &none          &none
+   &kp ESC  &kp N1  &kp N2       &kp N3       &kp N4         &kp N5           &kp N6         &kp N7            &kp N8   &kp N9    &kp N0   &kp BSPC
+   &kp TAB   &kp Q   &kp W        &kp E        &kp R          &kp T            &kp Y          &kp U             &kp I    &kp O     &kp P  &kp MINUS
+&kp LSHIFT   &kp A   &kp S        &kp D        &kp F          &kp G            &kp H          &kp J             &kp K    &kp L  &kp SEMI    &kp SQT
+ &kp LCTRL   &kp Z   &kp X        &kp C        &kp V          &kp B            &kp N          &kp M         &kp COMMA  &kp DOT  &kp FSLH   &kp BSLH
+                            &lt 1 SPACE  &lt 2 ENTER    &kp PAGE_UP    &kp RIGHT_ALT  &kp RIGHT_GUI  &ltq 2 BACKSPACE
+                                               &mo 3  &kp PAGE_DOWN        &kp RCTRL        &kp DEL
             >;
         };
 
