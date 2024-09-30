@@ -102,12 +102,12 @@
 
         raise_layer {
             bindings = <
-&kp F12       &kp F1     &kp F2           &kp F3           &kp F4               &kp F5             &kp F6     &kp F7         &kp F8    &kp F9     &kp F10        &kp F11
-&bt BT_CLR    &kp CAPS   &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9      &kp KP_NUMBER_0    &none      &none          &kp UP    &none      &none          &kp C_MUTE
-&bt BT_SEL 0  &kp LCTRL  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6      &kp KP_DOT         &none      &kp LEFT       &kp DOWN  &kp RIGHT  &kp C_BRI_UP   &kp C_VOL_UP
-&bt BT_SEL 1  &kp DEL    &kp GLOBE        &kp LG(C)        &kp LG(KP_NUMBER_3)  &kp AT_SIGN        &none      &kp RIGHT_ALT  &kp TAB   &none      &kp C_BRI_DEC  &kp C_VOL_DN
-                                          &trans           &kp HOME             &trans             &trans     &kp RALT       &trans
-                                                           &kp SPACE            &trans             &kp RCTRL  &kp RET
+&kp F12       &kp F1     &kp F2           &kp F3           &kp F4           &kp F5             &kp F6     &kp F7         &kp F8    &kp F9     &kp F10        &kp F11
+&bt BT_CLR    &kp CAPS   &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_NUMBER_0    &none      &kp LG(U)      &kp UP    &none      &none          &kp C_MUTE
+&bt BT_SEL 0  &kp LCTRL  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp LG(F)        &kp LG(G)          &kp LG(H)  &kp LEFT       &kp DOWN  &kp RIGHT  &kp C_BRI_UP   &kp C_VOL_UP
+&bt BT_SEL 1  &kp LG(C)  &kp LG(X)        &kp LG(C)        &kp LG(V)        &kp LG(B)          &none      &kp RIGHT_ALT  &kp TAB   &none      &kp C_BRI_DEC  &kp C_VOL_DN
+                                          &trans           &kp HOME         &trans             &trans     &kp RALT       &trans
+                                                           &kp SPACE        &trans             &kp RCTRL  &kp RET
             >;
         };
     };
